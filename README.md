@@ -1,4 +1,5 @@
-### Hi there 👋 This is Venkatesh
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, This is Venkatesh  
+<!--- ### Hi there 👋 This is Venkatesh  --->
 > Engineer by Degree, AWS Architect by Profession, and a DevOps Enthusiast.  
 
 <img src="imgs/aws-saa-dva-badge.png" alt="AWS 2x Certified" height="120" style="vertical-align:top; margin:4px">
@@ -19,7 +20,7 @@ Venkatesh is an Engineer at heart. He is a currently working with IBM, Designing
 <a href="https://twitter.com/venkatesh111" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/venkatesh111?style=social"></a>
 
 
-- My Home: https://www.WorkInProgress.in/ (its dummy 😄!!)
+- Find more about me at : https://venkateshk111.github.io/
 
 </p>
 </div>
