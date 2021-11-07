@@ -38,7 +38,7 @@ Venkatesh is an Engineer at heart. He is a currently working with IBM, Designing
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 </p>
 
-
+<!---
 ### Github Stats
 
 [![Venkatesh K GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkateshk111&show_icons=true&theme=dark&count_private=true)](https://github.com/venkateshk111)
@@ -53,6 +53,8 @@ Venkatesh is an Engineer at heart. He is a currently working with IBM, Designing
 <a href="mailto:venkatesh111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-venkatesh111@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://venkateshk111.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-venkateshk111.github.io-blue?style=flat&logo=google-chrome"></a>
 </p>
+
+--->
 
 
 ⭐️ From [@Venkateshk111](https://github.com/venkateshk111)
