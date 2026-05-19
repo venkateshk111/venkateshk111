@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="imgs/aws-dop-c02-badge.png" alt="AWS DevOps Engineer Professional" height="110" style="margin:6px;">
-  <img src="imgs/aws-saa-c02-badge.png" alt="AWS Solutions Architect Professional" height="110" style="margin:6px;">
+  <img src="imgs/aws-sap-c02-badge.png" alt="AWS Solutions Architect Professional" height="110" style="margin:6px;">
   <img src="imgs/aws-saa-c02-badge.png" alt="AWS Solutions Architect Associate" height="110" style="margin:6px;">
   <img src="imgs/aws-dva-c01-badge.png" alt="AWS Developer Associate" height="110" style="margin:6px;">
   <img src="imgs/tf-associate-badge.png" alt="HashiCorp Terraform Associate" height="110" style="margin:6px;">
@@ -104,16 +104,17 @@
 
 30,200+ students · 2 courses · ⭐ 4.6 and 4.2 rated
 
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkateshk111&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=FF9900&icon_color=FF9900" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkateshk111&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;hide_border=true&amp;title_color=FF9900&amp;icon_color=FF9900" alt="GitHub stats" height="165">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshk111&layout=compact&theme=dark&count_private=true&hide_border=true&title_color=FF9900" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshk111&amp;layout=compact&amp;theme=dark&amp;count_private=true&amp;hide_border=true&amp;title_color=FF9900" alt="Top languages" height="165">
 </p>
-
+-->
 ---
 
 ## 🌱 AWS Community Builder
